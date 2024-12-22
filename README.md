@@ -13,11 +13,28 @@
     <a href="https://huggingface.co/KbsdJames/Omni-Judge">
         <img alt="Static Badge" src="https://img.shields.io/badge/OmniJudge-OmniMATH-yellow">
     </a>
+    <a href="https://huggingface.co/KbsdJames/Omni-Judge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Github-Rule_based_Eval-black">
+    </a>
     <a href="https://omni-math.github.io/">
         <img alt="Static Badge" src="https://img.shields.io/badge/ProjectPage-Online-blue">
     </a>
+    <a href="https://www.qbitai.com/2024/09/193751.html">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Report-Qbitai-green">
+    </a>
 </p>
 
+## 🔥News
+
+- *2024-12-22*: We have released the rule-based evaluation data and code.
+
+- *2024-11-01*: We have enhanced Omni-Judge with vllm.
+
+- *2024-10-10*: We have released Our Paper on Arxiv.
+
+- *2024-09-20*: We have released the Omni-MATH dataset.
+
+------
 
 
 *Omni-MATH is a comprehensive and challenging benchmark specifically designed to assess LLMs' mathematical reasoning at the Olympiad level. Our dataset focuses exclusively on Olympiad mathematics and comprises a vast collection of 4428 competition-level problems. These problems are meticulously categorized into 33 (and potentially more) sub-domains and span across 10 distinct difficulty levels, enabling a nuanced analysis of model performance across various mathematical disciplines and levels of complexity.*
